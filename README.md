@@ -1,3 +1,3 @@
 # CS
-First Git Repository
+First Git Repository.
 Author - RD
