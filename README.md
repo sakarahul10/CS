@@ -1,4 +1,4 @@
 # CS
 First Git Repository.
 <br>
-Author - Rahul
+Author - Rahul Dhiman
